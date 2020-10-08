@@ -2,7 +2,7 @@
 
 Deep learning projects on various real world problems.
 
-ConvCaps:
+1) ConvCaps:
 
 Convolution capsule network (ConvCaps) architecture modeling both in .ipynb and .py format.
 
